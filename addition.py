@@ -1,3 +1,3 @@
-def addition(num1, num2):
+def add(num1, num2):
     result = num1 + num2 
     return result
