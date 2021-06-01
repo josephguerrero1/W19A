@@ -1,3 +1,9 @@
+try:
+    print(first_number_int)
+except CalculatorInputError:
+    print("Error! Please enter the input again")
+
+
 import addition
 import subtraction
 import multiplication
